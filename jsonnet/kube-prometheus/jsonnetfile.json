@@ -24,7 +24,7 @@
             "name": "grafana",
             "source": {
                 "git": {
-                    "remote": "https://github.com/brancz/kubernetes-grafana",
+                    "remote": "https://github.com/pschulten/kubernetes-grafana",
                     "subdir": "grafana"
                 }
             },
